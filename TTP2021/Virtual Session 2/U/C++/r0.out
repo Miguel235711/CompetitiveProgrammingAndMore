@@ -1,0 +1,15 @@
+aR: 0 bR: 1 cost: 0 sz[aR]: 1 sz[bR]: 1
+aR: 0 bR: 1iR: 2
+aR: 0 bR: 1iR: 3
+aR: 0 bR: 1iR: 4
+ans: 0
+aR: 2 bR: 3 cost: 0 sz[aR]: 1 sz[bR]: 1
+aR: 2 bR: 3iR: 0
+aR: 2 bR: 3iR: 0
+aR: 2 bR: 3iR: 4
+ans: 0
+aR: 2 bR: 4 cost: 0 sz[aR]: 2 sz[bR]: 1
+aR: 2 bR: 4iR: 0
+aR: 2 bR: 4iR: 0
+ans: 0
+0

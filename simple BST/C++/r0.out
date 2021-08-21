@@ -1,0 +1,12 @@
+find(1) = 1
+find(2) = 2
+find(3) = 3
+1 -1 1 1
+2 -1 2 2
+3 -1 -1 3
+Preorder:
+1 2 3 
+Inorder:
+1 2 3 
+Posorder:
+3 2 1 

@@ -1,0 +1,22 @@
+L A
+A B
+ST $0
+L C
+A D
+ST $1
+L E
+A F
+A $1
+ST $1
+L G
+A H
+A $1
+A $0
+
+L A
+A B
+ST $0
+L C
+A D
+N
+A $0

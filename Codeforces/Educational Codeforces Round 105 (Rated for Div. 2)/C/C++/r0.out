@@ -1,0 +1,24 @@
+i: 0 a[i]: 1
+j: -1 b[j]: 0
+matchedB[j]: 0
+matchedB
+0 0 0 
+maxContigousB
+3 2 1 
+i: 3 a[i]: 15
+j: 2 b[j]: 15
+matchedB[j]: 1
+i: 2 a[i]: 11
+j: 1 b[j]: 7
+matchedB[j]: 1
+i: 1 a[i]: 5
+j: -1 b[j]: 0
+matchedB[j]: 0
+i: 0 a[i]: 1
+j: -1 b[j]: 0
+matchedB[j]: 0
+matchedB
+1 1 1 
+maxContigousB
+2 1 1 
+4

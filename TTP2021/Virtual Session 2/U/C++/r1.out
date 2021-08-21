@@ -1,0 +1,39 @@
+aR: 0 bR: 1 cost: 1 sz[aR]: 1 sz[bR]: 1
+aR: 0 bR: 1iR: 2
+aR: 0 bR: 1iR: 3
+aR: 0 bR: 1iR: 4
+aR: 0 bR: 1iR: 5
+aR: 0 bR: 1iR: 6
+aR: 0 bR: 1iR: 7
+ans: 1
+aR: 2 bR: 3 cost: 1 sz[aR]: 1 sz[bR]: 1
+aR: 2 bR: 3iR: 0
+aR: 2 bR: 3iR: 0
+aR: 2 bR: 3iR: 4
+aR: 2 bR: 3iR: 5
+aR: 2 bR: 3iR: 6
+aR: 2 bR: 3iR: 7
+ans: 2
+aR: 4 bR: 5 cost: 1 sz[aR]: 1 sz[bR]: 1
+aR: 4 bR: 5iR: 0
+aR: 4 bR: 5iR: 0
+aR: 4 bR: 5iR: 2
+aR: 4 bR: 5iR: 2
+aR: 4 bR: 5iR: 6
+aR: 4 bR: 5iR: 7
+ans: 3
+aR: 6 bR: 7 cost: 1 sz[aR]: 1 sz[bR]: 1
+aR: 6 bR: 7iR: 0
+aR: 6 bR: 7iR: 0
+aR: 6 bR: 7iR: 2
+aR: 6 bR: 7iR: 2
+aR: 6 bR: 7iR: 4
+aR: 6 bR: 7iR: 4
+ans: 4
+aR: 2 bR: 0 cost: 6 sz[aR]: 2 sz[bR]: 2
+aR: 2 bR: 0iR: 4
+aR: 2 bR: 0iR: 4
+aR: 2 bR: 0iR: 6
+aR: 2 bR: 0iR: 6
+ans: 10
+10
